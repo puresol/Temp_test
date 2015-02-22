@@ -1,0 +1,24 @@
+html,
+body,
+div {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+
+#container {
+    height: 400px;
+    width: 400px;
+    margin: 30px auto;
+    background: red;
+}
+
+.basic {
+    display: inline-block;
+    background-color: #5D5858;
+}
